@@ -53,3 +53,10 @@ a:hover{
 
     background-color: white;
 }
+
+.made{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    background-color: darkgray ;
+}
